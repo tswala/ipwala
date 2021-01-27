@@ -1347,6 +1347,27 @@ a {
   padding-bottom: 0rem;
   background-color: #ffe161;
 }
+.cid-sng5Q6tPDU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sng5Q6tPDU .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sng5Q6tPDU img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sng5Q6tPDU .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sng5Q6tPDU .mbr-text {
+  color: #2a6fef;
+}
 .cid-siotXizCx5 {
   padding-top: 2rem;
   padding-bottom: 2rem;
